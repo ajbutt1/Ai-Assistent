@@ -41,8 +41,8 @@ import {
 // Suggest standardizing on environment variables so the user doesn't have to look through the code or change the code.
 // You could provide a small command line that prompts the user and generates the .env 
 AWS.config.credentials = new AWS.Credentials(
-    "ACCESS_KEY_ID",
-    "SECRET_ACCESS_KEY",
+    "AKIAW3XDABZMCX55YRNE",
+    "vya5eWmPwR3eDSC7zNSRq0Yv7aDvBihV5jxdEHb2",
 );
 
 // (optional) Supply your Ex-Human token, either in environment variables or in the code below:
