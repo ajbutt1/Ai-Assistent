@@ -26,11 +26,8 @@
     "react-dom": "18.2.0",
     "react-speech-recognition": "^3.9.1",
     "regenerator-runtime": "^0.13.9"
-      },
-  "scripts": {
-    "start": "node index.js"
-  },
-  "devDependencies": {
+     },
+    "devDependencies": {
     "eslint": "8.19.0",
     "eslint-config-next": "12.2.2"
     
