@@ -14,9 +14,9 @@
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
     "aws-sdk": "^2.1172.0",
-    "dotenv": "^18.13.0",
+    "dotenv": "^16.0.1",
     "framer-motion": "^6.4.3",
-    "node": "^16.14.0",
+    "node": "^18.3.0",
     "fs": "^0.0.1-security",
     "socket.io": "0.9.x"
     "google-search-results-nodejs": "^2.1.0",
